@@ -1,2 +1,2 @@
 # Test-Repository
-This is a repository to test for member contribution status
+This is a fake repository :bowtie:
